@@ -267,6 +267,1615 @@
         }
       ],
       "embajadores": "-"
+    },
+    {
+      "id": 1,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 2,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 3,
+      "division": "Growth",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 4,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 5,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 6,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 7,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+    {
+      "id": 8,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 9,
+      "division": "Growth",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 10,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 11,
+      "division": "Growth",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 12,
+      "division": "Strategy",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 13,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 14,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 15,
+      "division": "Growth",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 16,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 17,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 18,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 19,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+
+    {
+      "id": 20,
+      "division": "Math",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 21,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 22,
+      "division": "Growth",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 23,
+      "division": "Math",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 24,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 25,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 26,
+      "division": "CEO",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 27,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 28,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 29,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 30,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+    {
+      "id": 31,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 32,
+      "division": "Growth",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 33,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 34,
+      "division": "Growth",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 35,
+      "division": "Strategy",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 36,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 37,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 38,
+      "division": "Growth",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 39,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 40,
+      "division": "Growth",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 41,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 42,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+    {
+      "id": 43,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 44,
+      "division": "Growth",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 45,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 46,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 47,
+      "division": "Growth",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 48,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 49,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 50,
+      "division": "Growth",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 51,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 52,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 53,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 54,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+    {
+      "id": 55,
+      "division": "Strategy",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 56,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 57,
+      "division": "Strategy",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 58,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 59,
+      "division": "Math",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 60,
+      "division": "CEO",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 1,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 1,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Jordyn Herwitz"
+    },
+    {
+      "id": 61,
+      "division": "Math",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 11,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 2,
+          "nombre": "primero"
+        },
+        {
+          "id": 3,
+          "nombre": "segundo"
+        },
+        {
+          "id": 4,
+          "nombre": "tercero"
+        },
+        {
+          "id": 5,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "Carla Siphron"
+    },
+    {
+      "id": 62,
+      "division": "CEO",
+      "divisionSuperior": "Producto",
+      "colaboradores": 4,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 6,
+          "nombre": "primero"
+        },
+        {
+          "id": 7,
+          "nombre": "segundo"
+        },
+        {
+          "id": 8,
+          "nombre": "tercero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 63,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 6,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 9,
+          "nombre": "primero"
+        },
+        {
+          "id": 10,
+          "nombre": "segundo"
+        },
+        {
+          "id": 11,
+          "nombre": "tercero"
+        },
+        {
+          "id": 12,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 64,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 11,
+      "nivel": 3,
+      "subDivisiones": [
+        {
+          "id": 13,
+          "nombre": "primero"
+        },
+        {
+          "id": 14,
+          "nombre": "segundo"
+        },
+        {
+          "id": 15,
+          "nombre": "tercero"
+        },
+        {
+          "id": 16,
+          "nombre": "cuarto"
+        },
+        {
+          "id": 17,
+          "nombre": "quinto"
+        }
+      ],
+      "embajadores": "Terry Press"
+    },
+    {
+      "id": 65,
+      "division": "CEO",
+      "divisionSuperior": "Producto",
+      "colaboradores": 7,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 18,
+          "nombre": "primero"
+        },
+        {
+          "id": 19,
+          "nombre": "segundo"
+        },
+        {
+          "id": 20,
+          "nombre": "tercero"
+        },
+        {
+          "id": 21,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 66,
+      "division": "Strategy",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 3,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 22,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "Kierra Rosser"
+    },
+    {
+      "id": 67,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 68,
+      "division": "CEO",
+      "divisionSuperior": "Dirección General",
+      "colaboradores": 3,
+      "nivel": 2,
+      "subDivisiones": [
+        {
+          "id": 27,
+          "nombre": "primero"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 69,
+      "division": "Growth",
+      "divisionSuperior": "Producto",
+      "colaboradores": 6,
+      "nivel": 1,
+      "subDivisiones": [
+        {
+          "id": 28,
+          "nombre": "primero"
+        },
+        {
+          "id": 29,
+          "nombre": "segundo"
+        },
+        {
+          "id": 30,
+          "nombre": "tercero"
+        },
+        {
+          "id": 31,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 70,
+      "division": "Growth",
+      "divisionSuperior": "Dirección general",
+      "colaboradores": 7,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 32,
+          "nombre": "primero"
+        },
+        {
+          "id": 33,
+          "nombre": "segundo"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 71,
+      "division": "Strategy",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 8,
+      "nivel": 5,
+      "subDivisiones": [
+        {
+          "id": 34,
+          "nombre": "primero"
+        },
+        {
+          "id": 35,
+          "nombre": "segundo"
+        },
+        {
+          "id": 36,
+          "nombre": "tercero"
+        },
+        {
+          "id": 37,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
+    },
+    {
+      "id": 72,
+      "division": "CEO",
+      "divisionSuperior": "Operaciones",
+      "colaboradores": 5,
+      "nivel": 4,
+      "subDivisiones": [
+        {
+          "id": 23,
+          "nombre": "primero"
+        },
+        {
+          "id": 24,
+          "nombre": "segundo"
+        },
+        {
+          "id": 25,
+          "nombre": "tercero"
+        },
+        {
+          "id": 26,
+          "nombre": "cuarto"
+        }
+      ],
+      "embajadores": "-"
     }
   ]
 }

@@ -151,6 +151,7 @@ const TableContent = () => {
         dataSource={dataSource}
         rowSelection={true}
         bordered={true}
+        size="small"
         pagination={{
           current: page,
           pageSize: pageSize,
